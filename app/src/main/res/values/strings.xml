@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">YouYou</string>
+    <string name="main_info">请输入以下信息,确保您的小伙伴能联系到您~</string>
+    <string name="main_start_share">Start Share</string>
+    <string name="main_edit_text_name_warn">用户名不能为空</string>
+    <string name="main_edit_text_phone_null_warn">手机号不能为空</string>
+    <string name="main_edit_text_phone_error_warn">手机号有误</string>
+    <string name="main_text_start_shareing">开启实时共享中...</string>
+    <string name="userinfo_text_name">车长姓名:&#160;&#160;%1$s</string>
+    <string name="userinfo_text_tel">联系电话:&#160;&#160;</string>
+    <string name="map_activity_distance">&#160;&#160;%1$s</string>
+</resources>
